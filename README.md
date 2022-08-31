@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emlkelh
-- 👀 I’m interested in full-stack development
+- 👀 I’m interested in full-stack web development
 - 🌱 I’m currently learning Python & JavaScript frameworks
 <!---
 - 💞️ I’m looking to collaborate on ...
