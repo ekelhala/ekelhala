@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @ekelhala
+### 👋 Hi there!
 - 👀 I’m interested in full-stack web development
 - 🌱 I’m currently learning Python & JavaScript frameworks
-<!---
-- 💞️ I’m looking to collaborate on ...
---->
 - 📫 How to reach me? By email! emil.kelhala@gmail.com
 
 <!---
