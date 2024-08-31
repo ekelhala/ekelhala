@@ -1,6 +1,6 @@
 ### 👋 Hi there!
-- 👀 I’m interested in full-stack web development
-- 🌱 I’m currently learning Python & JavaScript frameworks
+- 👀 I’m a university student who is interested in embedded & web development
+- 🌱 I’m currently learning Pico SDK and Typescript
 - 📫 How to reach me? By email! emil.kelhala@gmail.com
 
 <!---
